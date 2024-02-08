@@ -1,0 +1,16 @@
+
+/* todos los p dentro de un div con la clase contenido*/
+div.contenido p {
+    margin: 10px 0;
+}
+
+
+
+/*añade margen arriba y abajo en 10 px sin usar margin top y margin bottom */ 
+
+
+
+.caja {
+     margin: 10px 0; /*el margin afecta en general, en este caso el primero es para arria y abajo, el segundo es para izquierda  y derecha*/
+}
+
